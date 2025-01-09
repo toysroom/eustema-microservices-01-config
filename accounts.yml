@@ -1,2 +1,4 @@
 environment: "default"
 name: "accounts"
+
+googlemapsapi_key: "123"
